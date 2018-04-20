@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NacDado</string>
+    <string name="wins">Wins</string>
+    <string name="draws">Draws</string>
+    <string name="lose">Lose</string>
+    <string name="play">Play</string>
+</resources>
